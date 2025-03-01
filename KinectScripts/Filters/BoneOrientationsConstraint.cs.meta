@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3b92dcdaec9f01740aaef9ce5eb191dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectScripts/Filters/BoneOrientationsConstraint.cs
+  uploadId: 48550

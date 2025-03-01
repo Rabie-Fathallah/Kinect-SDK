@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f049802ff05bda4e8f68160c3b11dcf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectScripts/Filters/JointPositionsFilter.cs
+  uploadId: 48550

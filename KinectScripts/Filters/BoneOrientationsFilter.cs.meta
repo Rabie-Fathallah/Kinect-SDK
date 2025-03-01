@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 432b661514787e8459e07093c3289116
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectScripts/Filters/BoneOrientationsFilter.cs
+  uploadId: 48550

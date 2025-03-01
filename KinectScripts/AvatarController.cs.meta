@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 21d009565a343ca46888bb2b74c7ef3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectScripts/AvatarController.cs
+  uploadId: 48550

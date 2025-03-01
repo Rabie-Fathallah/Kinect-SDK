@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1e6453debfbda5d43944c24e251a6999
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectScripts/Samples/GetJointPositionDemo.cs
+  uploadId: 48550
