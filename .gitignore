@@ -1,0 +1,9 @@
+/Library/
+/Logs/
+/UserSettings/
+/Packages/com.unity.asset-store-tools/
+/ProjectSettings/Packages/
+/.vsconfig
+/Assembly-CSharp.csproj
+/Kinect-SDK.sln
+/Temp/

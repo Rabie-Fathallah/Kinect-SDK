@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73edc93f32ffcfa4ab8cc7f9e14500ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/AvatarsDemo/Cubeman/YellowCube.prefab
+  uploadId: 742094

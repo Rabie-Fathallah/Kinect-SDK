@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b214f137e3db1904cb260afce1e0b463
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/OverlayDemo/Scripts/KinectOverlayer.cs
+  uploadId: 742094

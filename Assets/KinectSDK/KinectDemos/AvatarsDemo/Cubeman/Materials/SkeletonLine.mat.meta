@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cea168869d022f740a7df3d1b8e1efac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/AvatarsDemo/Cubeman/Materials/SkeletonLine.mat
+  uploadId: 742094

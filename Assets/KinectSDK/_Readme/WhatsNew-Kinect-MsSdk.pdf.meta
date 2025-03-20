@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f99d763664c53eb41b7202bb2a7eddce
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/_Readme/WhatsNew-Kinect-MsSdk.pdf
+  uploadId: 742094

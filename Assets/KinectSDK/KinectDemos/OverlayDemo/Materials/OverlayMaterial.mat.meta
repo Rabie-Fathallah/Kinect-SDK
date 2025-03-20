@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92ff691a6b517bb4f9f45997f2d8da9c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/OverlayDemo/Materials/OverlayMaterial.mat
+  uploadId: 742094
