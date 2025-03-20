@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ba519ffc2f4bf740a9f3fc5e78fd6b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/AvatarsDemo/Cubeman/Materials/lambert1.mat
+  uploadId: 742094

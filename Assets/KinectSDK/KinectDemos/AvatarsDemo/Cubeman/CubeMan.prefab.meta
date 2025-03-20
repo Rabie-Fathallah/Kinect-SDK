@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed1c50b3cebc9374f9da79ca55dd4e4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/AvatarsDemo/Cubeman/CubeMan.prefab
+  uploadId: 742094

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06e5c71e30cc4b243a51e1098b1c23a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/AvatarsDemo/KinectAvatarsDemoSettings.lighting
+  uploadId: 742094

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d75611742e570a4b8fd4c3f78c4c103
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/DepthColliderDemo/Scripts/DepthImageViewer.cs
+  uploadId: 742094

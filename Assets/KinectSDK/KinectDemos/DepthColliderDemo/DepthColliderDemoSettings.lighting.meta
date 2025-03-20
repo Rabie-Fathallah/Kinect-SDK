@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d236d6a645c9fed49a51b8547af27787
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/DepthColliderDemo/DepthColliderDemoSettings.lighting
+  uploadId: 742094

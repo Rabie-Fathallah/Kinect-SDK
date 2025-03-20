@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13d3939f36835444fb0366a8a681b56e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/AvatarsDemo/TestModels/U_Character/Materials/U_Char_Eye_DIF.mat
+  uploadId: 742094

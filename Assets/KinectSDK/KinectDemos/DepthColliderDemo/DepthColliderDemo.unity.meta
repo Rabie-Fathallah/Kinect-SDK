@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7beca991f7fa1914985be46ab65a5479
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/DepthColliderDemo/DepthColliderDemo.unity
+  uploadId: 742094

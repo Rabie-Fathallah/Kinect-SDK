@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b108a5f81f3db24da52e09d691c41ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7747
+  packageName: Kinect with MS-SDK
+  packageVersion: 1.12
+  assetPath: Assets/KinectSDK/KinectDemos/GesturesDemo/Materials/Side2.mat
+  uploadId: 742094
